@@ -1,0 +1,51 @@
+body{
+
+    font-style: italic;
+}
+
+.H1{
+     text-align: center;
+}
+
+.input{
+    font-size: 30px;
+}
+
+.Name{
+    border-color:dodgerblue;
+    padding: auto;
+    
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.Age{
+    border-color:dodgerblue;
+    padding: auto;
+    
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.Gender{
+    border-color:dodgerblue;
+    padding: auto;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+
+.button{
+    background-color: aqua;
+    border-radius: 10px;
+    border-color:black;
+   font-size: 25px;
+   font-style: italic;
+   padding-left: 15px;
+   padding-right: 15px;
+}
+
+.Result{
+    font-size: 25px;
+}
+    
